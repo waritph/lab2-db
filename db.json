@@ -65,17 +65,6 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Brody Kill"
-    },
-    {
-      "id": 1004,
-      "category": "animal welfare",
-      "title": "Pet Food Drive",
-      "description": "Donate pet food to help local shelters.",
-      "location": "Paws & Claws Shelter",
-      "date": "October 10, 2022",
-      "time": "9:00",
-      "petsAllowed": true,
-      "organizer": "Fur Real"
     }
   ]
 }
